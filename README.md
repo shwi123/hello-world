@@ -1,6 +1,6 @@
 # hello-world
 This is the beginning
-#pip import numpy as np
+#pip install numpy as np
 
 #create data
 x = [1,2,3,4]
